@@ -1,0 +1,10 @@
+# Application properties
+spring:
+  application:
+    name: stock-scraper
+
+# Logging configuration
+logging:
+  level:
+    root: INFO
+    com.finfellow.stockscrapingagent: DEBUG
